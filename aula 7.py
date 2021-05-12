@@ -14,3 +14,4 @@ print(salario_fulano)
 def reducao_salarial(salario=5000, precentual=10):
     novo_salario = salario - salario*precentual/100
     return novo_salario
+    ### abc
